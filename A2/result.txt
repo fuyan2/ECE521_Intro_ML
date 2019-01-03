@@ -1,0 +1,54 @@
+part 1.1
+    rate =  0.005
+    Training loss =  0.08012693444725787
+    Validation accuracy =  0.84
+    rate =  0.001
+    Training loss =  0.2923691385817989
+    Validation accuracy =  0.73
+    rate =  0.0001
+    Training loss =  1.2881000835518894
+    Validation accuracy =  0.68
+
+part 1.2
+    batch_size =  500
+    Training loss =  0.08197451456664935
+    Validation accuracy =  0.86
+    batch_size =  1500
+    Training loss =  0.06580070819912019
+    Validation accuracy =  0.9
+    batch_size =  3500
+    Training loss =  0.07654145147562236
+    Validation accuracy =  0.84
+
+part 1.3
+    weight decay coeff =  0
+    Validation accuracy =  0.89
+    weight decay coeff =  0.001
+    Validation accuracy =  0.9
+    weight decay coeff =  0.1
+    Validation accuracy =  0.98
+    weight decay coeff =  1
+    Validation accuracy =  0.98
+
+part 1.4
+    train_accuracy =  0.984
+    valid_accuracy =  0.96
+    test_accuracy =  0.9310345
+
+part 2.1
+    rate =  0.005
+    Training loss =  0.6224136216449583
+    Validation accuracy =  0.98
+    rate =  0.001
+    Training loss =  1.031404515179989
+    Validation accuracy =  0.94
+    rate =  0.0001
+    Training loss =  1.3191886747214898
+    Validation accuracy =  0.77
+
+part 2.2
+
+
+part 2.3
+
+
